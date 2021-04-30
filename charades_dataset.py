@@ -1,6 +1,6 @@
 import torch
 import torch.utils.data as data_utl
-from torch.utils.data.dataloader import default_collate
+# from torch.utils.data.dataloader import default_collate
 
 import numpy as np
 import json
