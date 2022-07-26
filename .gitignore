@@ -212,3 +212,10 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+flow_feature/
+flow/
+frames/
+origi_videos/
+rgb_feature/
+videos/
+
